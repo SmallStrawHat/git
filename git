@@ -9,6 +9,9 @@ git config --global user.name "SmallStrawHat"		#设置git账户名
 git config --global user.email jiaqizhang79@gmail.com	#设置email
 git config --global color.ui true			#开启颜色显示
 
+
+2.本地操作
+
 git创建仓库(如，test)：	
 mkdir test
 cd test
@@ -23,7 +26,7 @@ git commit -m "change file" #必须加-m
 或者git add -A 添加所有的改变
 
 
-2.远程操作
+3.远程操作
 
 git clone ssh-address 克隆远程的仓库
 
