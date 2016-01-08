@@ -1,4 +1,4 @@
-hwo to used fastly
+how to used fastly
 =================================
 #1.下载及开始的配置
 
